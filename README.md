@@ -6,14 +6,14 @@ I am an Informatics and Telecommunications Engineer graduate with a strong techn
 ## Objective
 
 My goal is to start my career in cybersecurity as a SOC Analyst (Tier 1) where I can apply my technical background in systems, networking, and development to monitor security events, investigate incidents, and contribute to improving organizational security posture.
-<!--
+
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="[https://google.com](https://github.com/Memonto-Mori/soc-malware-detection-lab/tree/master)">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="[https://google.com](https://github.com/Memonto-Mori/soc-malware-detection-lab/tree/master)">Detection Lab</a>|
+<!--
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
